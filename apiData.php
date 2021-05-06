@@ -1,5 +1,10 @@
 <?php
 
+/**
+ * 20 spel, de fem med högsta betyg till fyra valda format. 
+ * Två-tre spel säljs bara online och fick andra länkar till bilder pga detta. 
+ **/
+
 $topConsoleGames = [
   [
     'id' => 1,
